@@ -1,0 +1,334 @@
+{
+  "history": [
+    {
+      "date": "1854",
+      "title": "FRANK STROHER",
+      "subtitle": "BORN IN SAXONY ONE OF 5 CHILDREN",
+      "yearToTimeline": "1850-80",
+      "gridRow": "1"
+    },
+    {
+      "date": "1872",
+      "title": "FRANZ STROHER EXPLORES THE LATEST HAIR FASHIONS",
+      "text": "Fully qualified as a hairdresser, Franz Stroher set off to Paris to learn about the latest hair fashions.",
+      "imageName": "1872_Franz_Stroher",
+      "start": "2",
+      "width": "1"
+    },
+    {
+      "date": "1880",
+      "title": "FRANZ STROHER",
+      "subtitle": "STARTS HIS OWN COMPANY MAKING TULLES, THE BASES FOR WIGS"
+    },
+    {
+      "date": "1890",
+      "title": "INVENTION OF TULLEMOID WATERPROOF",
+      "subtitle": "A NEW TECHNIQUE ALLOWING THE SCALP TO BREATHE",
+      "yearToTimeline": "1890",
+      "gridRow": "2"
+    },
+    {
+      "date": "1894",
+      "title": "FIRST FACTORY IN ROTHENKIRCHEN",
+      "text": "By 1894 demand was so high, that Stroher set up his first factory in the East German town of Rothenkirchen (Saxony).",
+      "imageName": "1894_Wella_Rothenkirchen",
+      "start": "2",
+      "width": "2"
+    },
+    {
+      "date": "1898",
+      "title": "STROHER'S TWO SONS,",
+      "subtitle": "KARL & GEORGE BROUGHT INTO THE BUSINESS",
+      "yearToTimeline": "1900-20",
+      "gridRow": "3"
+    },
+    {
+      "date": "1924",
+      "title": "WELLA PATENT FILED",
+      "text": "In 1924 the Stroher’s filed the name Wella, meaning Wave at the German patent office.",
+      "imageName": "1924_Wella_logo",
+      "start": "2",
+      "width": "1"
+    },
+    {
+      "date": "1927",
+      "title": "WELLA DEVELOPS PRODUCTS FOR PERMANENT HAIR WAVES",
+      "text": "As wigs and hairpieces fell from fashion, Karl and George reacted instinctively to women’s beauty desires with their own innovation: applying for a licence to develop products that gave hair permanent waves. Much to the excitement of salons, the first Wella perming appliance was mass-produced. Along with this the company aslo supplied salons with their perming agent, Wellin.",
+      "imageName": "1927_Wella_ad",
+      "start": "3",
+      "width": "1"
+    },
+    {
+      "date": "1930",
+      "title": "ELLA DEVELOPS WELLA JUNIOR - THE WORLD'S FIRST PORTABLE PERMER",
+      "text": "Wella becomes a byword for beauty and partnership, as more and more women demand their perms. Understanding salons’ needs, the company evolves its appliances to create the Wella Junior – the world’s first portable permer. Sales soar and Wella shows its commitment to the industry and the profession: supplying hair care products that establish Wella’s full service proposition with Wella courses and a dedicated magazine for hairdressers. With this the world sees the first use of the Wella logo.",
+      "imageName": "1930_Wella_Junior_d",
+      "start": "1",
+      "width": "2",
+      "yearToTimeline": "1930",
+      "gridRow": "4"
+    },
+    {
+      "date": "1930s",
+      "title": "WELLA DEVELOPS THE FIRST HAIR DRYERS WITH BUILT-IN MOTORS",
+      "text": "Innovation always being at the heart of Wella: the mid 1930’s sees the first hair dryers with built in motors introduced: movable tubes ensured that the head could move about freely during the drying process, and beauty became a much more enjoyable process. Continued success enables the company to expand throughout Europe and into America where the Wella Corporation is founded.",
+      "imageName": "1930s_Wella_Meisterstuck_Trockenhaube",
+      "start": "3",
+      "width": "1"
+    },
+    {
+      "date": "1939",
+      "title": "KOLESTRAL: THE FIRST EVER BALM TO PROTECT AND NOURISH HAIR",
+      "text": "At the end of the decade, Kolestral, the first ever balm to protect and nourish hair, is launched and becomes an instant hit with hairdressers and clients alike: The well-being of fashionable hair was secured.",
+      "imageName": "1939_Kolestral_Ad",
+      "start": "1",
+      "width": "1"
+    },
+    {
+      "date": "1940s",
+      "title": "THE WELLA DREAM CONTINUES AFTER THE WAR",
+      "text": "After the ruin of World War 2, under the German Democratic Republic, Wella’s factory in the east, as well as its patents are seized and declared state-owned. Refusing to abandon the Wella dream, the Ströher family and 12 loyal employees start from scratch, in Hünfeld, Hesse.",
+      "imageName": "1940s_Wella_ad",
+      "start": "2",
+      "width": "1",
+      "yearToTimeline": "1940",
+      "gridRow": "5"
+    },
+    {
+      "date": "1945",
+      "title": "FULL SCALE PRODUCTION BEGINS",
+      "text": "In 1945, full-scale production begins and before long, the company is back in business - hand in hand with salon owners. The Wella Junior is once again a hero product with Kolestral as an essential enabler of the full perm service.",
+      "imageName": "1945_Wella_Kolestral",
+      "start": "3",
+      "width": "1"
+    },
+    {
+      "date": "1949",
+      "title": "WELLA EXPANDS TO 50 EMPLOYEES",
+      "text": "A decade closes and Wella’s employee-count reaches 50. Elevating hairdressers and the industry, is decisively back on track.",
+      "imageName": "1949_Wella_Seminar_d",
+      "start": "1",
+      "width": "3"
+    },
+    {
+      "date": "1950",
+      "title": "KOLESTON DEBUTS AS THE FIRST CREAM COLOURANT",
+      "text": "In 1950 Wella sets the pace with colour the igniting the industry: pioneering Koleston as the first cream colourant that nourishes the hair.",
+      "imageName": "1950_Wella_Kolestral_ad",
+      "start": "1",
+      "width": "1",
+      "yearToTimeline": "1950",
+      "gridRow": "7"
+    },
+    {
+      "date": "1953",
+      "title": "HAIRDRESSERS AND CLIENTS FALL IN LOVE WITH KOLESTON",
+      "text": "Hairdressers and their clients fall in love with Koleston - suddenly it’s everywhere. In the space of just 3 years, the product reaches 5.5 million tubes sold worldwide – then the Koleston 100 series is launched with a new formula so hair can be lightened for the first time ever. Three more rapid innovations innovate salon services – Accord – the first colour and setting product, Wella Form and futuristic conditioning brand Lifetex Concentrate.",
+      "imageName": "1953_Wella_Lifetex",
+      "start": "2",
+      "width": "1"
+    },
+    {
+      "date": "1954",
+      "title": "WELONDA SALON EQUIPMENT IS CREATED",
+      "text": "In 1954 Welonda Salon Equipment is created: empowering salons with the most up-to-date salon equipment available. Showing just how popular the colour services are, not only in local salons but as the latest Hollywood must-have, screen star and icon Elizabeth Taylor famously appears in Koleston advertising.",
+      "imageName": "1954_Welonda_Salon",
+      "start": "3",
+      "width": "1"
+    },
+    {
+      "date": "1957",
+      "title": "INAUGURATION OF THE WELLA CENTRAL RESEARCH CENTRE",
+      "text": "1957 sees the inauguration of the Wella Central Research Centre, in Darmstadt, Germany.",
+      "imageName": "1957_Wella_Central_Research",
+      "start": "1",
+      "width": "1"
+    },
+    {
+      "date": "1959",
+      "title": "WELLA LAUNCHES KOLESTON 200 SERIES",
+      "text": "Two years later, empowered by the centre’s innovation, Wella launches the Koleston 200 series with natural-looking light pale shades, followed by the 300 series of darker shades.",
+      "imageName": "1959_Wella_Koleston_200_ad",
+      "start": "2",
+      "width": "2"
+    },
+    {
+      "date": "1960s",
+      "title": "WELLA CONTINUES TO INSPIRE HAIRDRESSERS AND BEAUTY LOVERS IN THE 60s",
+      "text": "In the 1960’s Individual expression drives the self-aware and fashion-conscious to change their hairstyles much more frequently. Wella spots the trend and reacts with Wella Privat. A range available to buy in salons, enabling clients to take professional hair care products home for the first time ever - and salons to take part in the retail revolution. Throughout this iconic era for style, Wella continues to inspire hairdressers and beauty lovers the world over: taking centre stage at many international hairdressing events, and as an exclusive supplier to the Olympic Games.",
+      "imageName": "1960s_Wella_Privat",
+      "start": "1",
+      "width": "1",
+      "yearToTimeline": "1960-70",
+      "gridRow": "9"
+    },
+    {
+      "date": "1967",
+      "title": "PASSIONATE RED: COLOUR SYNONYMOUS WITH WELLA",
+      "text": "Investment in research and development at Darmstadt continues at pace. Passionate red, a colour synonymous with Wella and the brands love affair with red hair took on a new intensity with even more reds added to Koleston 200 colour range. Reaching further into untapped beauty territories, the company begins trading in Japan, New Zealand, Mexico and Iran.",
+      "imageName": "1967_Koleston_200_red",
+      "start": "2",
+      "width": "1"
+    },
+    {
+      "date": "1970s",
+      "title": "HAIR IS DEFYING GRAVITY WITH WELLA'S NEW PRODUCT PERFORM",
+      "text": "In the 1970’s with N.A.S.A’s regular moon trips, it was only matter of time before science enabled hair to defy gravity. Wella new perm product Perform, allowed hairdressers to create the Afro looks that defined 70’s fashion. Wella’s intuitve feel for the pulse of the moment also brought about the introduction of the For Men range: male grooming had landed.",
+      "imageName": "1970s_Wella_Perform",
+      "start": "3",
+      "width": "1"
+    },
+    {
+      "date": "1972",
+      "title": "WELLA'S UNIVERSAL APPEAL DEMANDS EXPANSION INTO RETAIL",
+      "text": "In 1972 Wella’s universal appeal demands expansion of its retail offer: the first shampoo produced specifically to be sold in department stores, supermarkets and chemists launches. Wella Balsam is launched and Charlie's Angels stars Farrah Fawcett, Cheryl Ladd &amp; jaclyn Smith appear in the advertising for the shampoo and conditioner. Fawcett's thick, layered blond hair instantly set a major style trend.",
+      "imageName": "1972_Wella_Farrah_Fawcett",
+      "start": "1",
+      "width": "2"
+    },
+    {
+      "date": "1974",
+      "title": "WELLA ADVANCES COLOUR SCIENCE WITH KOLESTON 2000",
+      "text": "Advancing colour science further, Koleston 2000 used a gel-based formulation: with this Wella was able to revolutionize hair lightening with a colour system that was not as harsh on the hair.",
+      "imageName": "1974_Wella_Koleston_2000",
+      "start": "3",
+      "width": "1"
+    },
+    {
+      "date": "1976",
+      "title": "WELLA DEVELOPS CHITOSAN AND A NEW GENERATION OF STYLING PRODUCTS",
+      "text": "Then in 1976, Wella developed Chitosan, as a hairspray ingredient to deliver flexible hold. A new generation of styling products were beautifying the world and beyond.",
+      "imageName": "1976_Wella_Chitosan_hair",
+      "start": "1",
+      "width": "1"
+    },
+    {
+      "date": "1980",
+      "title": "WELLA",
+      "subtitle": "CELEBRATES 100 YEARS AND SALES PASS 1 BILLION DM",
+      "yearToTimeline": "1980",
+      "gridRow": "11"
+    },
+    {
+      "date": "1980s",
+      "title": "INTRODUCTION OF HIGH HAIR AND NEW WAVE",
+      "text": "For hair, strong, power-dressed looks were the creative story throughout the 80s. Wella enabled the trend with the introduction of its High Hair professional styling range - an instant salon success. Additionally, the launch of New Wave (predecessor of ShockWaves) electrifies hair fashion as just about everybody, sports the adventurous ‘wet-look’. New upstart, Color Shining Set also set the tone with pink shades that could be combed in and washed out. Allowing anybody to punk out.",
+      "imageName": "1980s_Wella_Hair",
+      "start": "3",
+      "width": "1"
+    },
+    {
+      "date": "1981",
+      "title": "KOLESTON SPECIAL BLONDE SERIES GENTLY COLOURS AND CARES DURING LIGHTENING",
+      "text": "On the colour front. In 1981 the Koleston Blonde 2000 Special Blonde series was developed: using a gel cream formulation to gently colour and care for hair while being lightened. Dark blondes could now go lighter.",
+      "imageName": "1981_Koleston_Special_Blonde_ad",
+      "start": "1",
+      "width": "2",
+      "centered": false
+    },
+    {
+      "date": "1988",
+      "title": "COLOR TOUCH:",
+      "subtitle": "FIRST DEMI-PERMANENT COLOUR IS LAUNCHED"
+    },
+    {
+      "date": "1995",
+      "title": "KOLESTON IS RELAUNCHED AS KOLESTON PERFECT",
+      "text": "In 1995 Koleston, the cream colour established back in 1950, received its second relaunch and was marketed under the new name Koleston Perfect. Not being a company to rest on its iconic achievements, Wella set about discovering new product benefits - more natural ingredients were sort to ensure healthy hair - including fruit wax which won a prestigious innovation award. Meanwhile, the research and development teams introduced the use of keratin to repair damaged hair.",
+      "imageName": "1995_Wella_Koleston_Perfect_ad_d",
+      "start": "1",
+      "width": "3",
+      "yearToTimeline": "1990",
+      "gridRow": "13"
+    },
+    {
+      "date": "2000",
+      "title": "COLOUR MOLECULE",
+      "subtitle": "PYRAZOL 5 MARKS THE NEW MILLENIUM",
+      "yearToTimeline": "2000",
+      "gridRow": "14"
+    },
+    {
+      "date": "2000s",
+      "title": "HAIR CREATIVITY IS HEIGHTENED WITH TRENDVISION",
+      "text": "Throughout the decade Wella’s annual Haute Couture hair fashion collections, TrendVision – delighted and inspired stylists the world over. This evolved to become the TrendVision Award, a global hairdressing competition created to encourage stylist’s creative vision and promote superior craftsmanship: values the company was founded on one hundred years earlier.",
+      "imageName": "2000s_Wella_TrendVision",
+      "start": "2",
+      "width": "1"
+    },
+    {
+      "date": "2002",
+      "title": "COLOR TOUCH IS RELAUNCHED WITH LIGHT²COLOR COMPLEX",
+      "text": "Then in 2002, Wella introduced Color Sensations and painting as a more advanced alternative creative colour technique for high mastery colourists. At the fun end of the creative spectrum, with innovation still very much a platform - Color Touch was relaunched. The wash-out colour’s new Light2Color Complex becoming a solid success by enabling light to “dance” with colour.",
+      "imageName": "2002_Color_Touch_Light2Color",
+      "start": "3",
+      "width": "1"
+    },
+    {
+      "date": "2011",
+      "title": "WELLA PARTNERS WITH UNICEF TO GIVE THE GIFT OF EDUCATION",
+      "text": "In an era when global brands are playing major roles in social responsibility programs, Wella turned to changing lives with an asset that no other brand understands quite like Wella: hairdresser education. In 2011 Wella announced its partnership with Unicef - to take their passion for hairdressing to the disadvantaged young people in Brazil, through an innovative hairdressing and life skills program. With hairdressers from the Wella family contributing as mentors, the Making Waves program has become an unprecedented success: now additionally, improving young lives in Romania. To date Making Waves has touched the lives of 12,000 young people.",
+      "imageName": "2011_Making_Waves",
+      "start": "1",
+      "width": "1",
+      "yearToTimeline": "2010",
+      "gridRow": "15"
+    },
+    {
+      "date": "2012",
+      "title": "ILLUMINA COLOR SETS A NEW BEAUTY STANDARD IN THE WORLD OF COLOUR",
+      "text": "But the beauty world and fashion was truly shaken up in 2012 with the launch of ILLUMINA COLOR - setting a new standard in the industry of premium colour thanks to its revolutionary Microlight TechnologyTM. ILLUMINA COLOR now is the name on every fashionista’s lips – having placed colour on the catwalk for the first time at Missoni’s Italian Fashion Week show and being featured in Vogue Italia.",
+      "imageName": "2012_Wella_Illumina_Color_d",
+      "start": "2",
+      "width": "2"
+    },
+    {
+      "date": "2012s",
+      "title": "WELLA PROFESSIONALS CELEBRATES 10 YEARS OF ITVA",
+      "text": "Wella Professionals celebrated 10 years of their International Trend Vision Award - with a breathtakingly beautiful and inspirational trend showcase and competition in Madrid.",
+      "imageName": "2012_Wella_ITVA_d",
+      "start": "1",
+      "width": "1"
+    },
+    {
+      "date": "2013",
+      "title": "BREAKTHROUGH INNOVATION WITH COLOR.ID",
+      "text": "2013 saw the introduction the Color.id phenomenon – a breakthrough product that when added to KP allows hairdressers to place color next to colort without foils, without bleeding. To compliment these supreme color results, in the same year, Color Recharge, a range of colour depositing shampoos, was launched.",
+      "imageName": "2013_Wella_Color_id_d",
+      "start": "2",
+      "width": "1"
+    },
+    {
+      "date": "2014",
+      "title": "Wella professionals introduces ME+",
+      "text": "",
+      "imageName": "2014_Wella_Koleston_Perfect_Innosense_d",
+      "start": "3",
+      "width": "1"
+    },
+    {
+      "date": "2015",
+      "title": "Celebrating 135 years of hair passion",
+      "text": "",
+      "imageName": "2015",
+      "start": "1",
+      "width": "2"
+    },
+    {
+      "date": "2015s",
+      "title": "LAUNCH OF EIMI THE NEW WELLA PROFESSIONALS STYLING RANGE",
+      "text": "EIMI by Wella Professionals is the first word in styling. With EIMI you can truly be yourself, interpreting the latest global trends, speaking the language of style and individuality. In addition to brand NEW products, EIMI also incorporates all your favourites from Wella Professionals to complete a comprehensive lineup of styling products. Say Style, Speak EIMI!",
+      "imageName": "02_INSIDE_WELLA_EIMI_PUSH",
+      "start": "3",
+      "width": "1"
+    },
+    {
+      "date": "2018",
+      "title": "OUR PUREST COLOUR EVER WITH ME+ TECHNOLOGY",
+      "text": "- PURE, BALANCED COLOUR RESULTS WITH NATURAL DEPTH AND SHINE.</br>- SIGNIFICANTLY LESS HAIR DAMAGE, COLOUR AFTER COLOUR.</br>- ME+, UP TO 60x LESS LIKELY TO DEVELOP A NEW ALLERGY TO HAIR COLOUR.",
+      "imageName": "Our_Heritage_tile_d",
+      "start": "1",
+      "width": "3"
+    }
+  ]
+}

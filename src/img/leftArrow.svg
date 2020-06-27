@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Warstwa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="36.695px" height="36.695px" viewBox="0 0 36.695 36.695" enable-background="new 0 0 36.695 36.695" xml:space="preserve">
+<g>
+	<defs>
+		<rect id="SVGID_1_" y="0" width="36.695" height="36.695"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	<path clip-path="url(#SVGID_2_)" fill="#B1B3B6" fill-opacity="0.5" d="M36.695,18.348c0,10.133-8.215,18.348-18.349,18.348
+		C8.215,36.695,0,28.48,0,18.348S8.215,0,18.347,0C28.48,0,36.695,8.215,36.695,18.348"/>
+	<polygon clip-path="url(#SVGID_2_)" fill="#FFFFFF" points="21.779,22.31 21.779,18.347 21.779,14.386 18.348,16.366 
+		14.916,18.347 14.916,18.348 18.348,20.329 	"/>
+</g>
+</svg>

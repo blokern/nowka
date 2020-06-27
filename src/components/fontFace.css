@@ -1,0 +1,17 @@
+@font-face {
+  font-family: ClanPro;
+  src: url('../../fonts/ClanPro-NarrowBook.otf');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: ClanPro;
+  src: url('../../fonts/ClanPro-NarrowNews.otf');
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: ClanPro;
+  src: url('../../fonts/ClanPro-NarrowMedium.otf');
+  font-weight: 600;
+}

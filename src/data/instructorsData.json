@@ -1,0 +1,57 @@
+{
+  "instructors": [
+    {
+      "photoName": "Joanna-Zapala",
+      "name": "Joanna Zapała",
+      "position": "Dyrektor ds. Edukacji"
+    },
+    {
+      "photoName": "Malgorzata-Babicz",
+      "name": "Małgorzata Babicz",
+      "position": "Dyrektor Artystyczny Studio Wella",
+      "link": "https://babiczandbabicz.com/"
+    },
+    {
+      "photoName": "Luiza-Jaroslawska-Wozniak",
+      "name": "Luiza Jarosławska-Woźniak",
+      "position": "Starszy Instruktor"
+    },
+    {
+      "photoName": "Anna-Cagiel-Babiuch",
+      "name": "Anna Cagiel-Babiuch",
+      "position": "Starszy Instruktor"
+    },
+    {
+      "photoName": "Aleksandra-Naduk",
+      "name": "Aleksandra Naduk",
+      "position": "Instruktor"
+    },
+    {
+      "photoName": "Katarzyna-Moskwa",
+      "name": "Katarzyna Moskwa",
+      "position": "Instruktor"
+    },
+    {
+      "photoName": "Mariusz-Gola",
+      "name": "Mariusz Gola",
+      "position": "Instruktor"
+    },
+    {
+      "photoName": "Joanna-Kalkosinska",
+      "name": "Joanna Kalkosińska",
+      "position": "Instruktor"
+    }
+  ],
+  "teachers": [
+    {
+      "photoName": "Dagmara-Pilis",
+      "name": "Dagmara Pilis",
+      "position": "Edukator"
+    },
+    {
+      "photoName": "Gabriela-Maj",
+      "name": "Gabriela Maj",
+      "position": "Edukator"
+    }
+  ]
+}

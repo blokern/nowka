@@ -1,0 +1,166 @@
+{
+  "advisors": [
+    {
+      "id": 1,
+      "name": "Michalski Bartłomiej",
+      "cities": "Warszawa, Ożarów, Błonie, Sochaczew, Kampinos, Żelazowa Wola, Leszno, Płock, Wyszogród, Drobin, Gostynin, Teresin, Płońsk, Płochocin, Czerwińsk.",
+      "phone": 668865051
+    },
+    {
+      "id": 2,
+      "name": "Nogaj Piotr",
+      "cities": "Katowice, Chorzów, Ruda Śląska, Zabrze, Chrzanów, Jaworzno, Mikołów, Mysłowice, Racibórz, Sosnowiec, Trzebinia, Oświęcim, Olkusz.",
+      "phone": 668865063
+    },
+    {
+      "id": 3,
+      "name": "Banasik Anna",
+      "cities": "Łódź, Pabianice, Piotrków Trybunalski, Tomaszów Mazowiecki, Rawa Mazowiecka, Bełchatów, Tuszyn, Biała Rawska, Łask, Zgierz, Głowno.",
+      "phone": 668865060
+    },
+    {
+      "id": 4,
+      "name": "Dobrucki Piotr",
+      "cities": "Zielona Góra, Żary, Łęknica, Gubin, Krosno Odrzańskie, Słubice, Kostrzyn, Barlinek, Gorzów Wielkopolski, Wschowa, Nowa Sól, Wolsztyn, Pniewy, Tarnowo Podgórne, Głogów, Lubiń, Leszno, Dębno.",
+      "phone": 668865062
+    },
+    {
+      "id": 5,
+      "name": "Adamczyk Mariusz",
+      "cities": "Babice, Adamówek, Chotomów, Łochów, Maków Mazowiecki, Marki, Wyszków, Radzymin, Nowy Dwór Mazowiecki, Ostrów Mazowiecki, Załuski, Ząbki, Zielonka, Warszawa, Wołomin, Tłuszcz, Wieliszew, Pułtusk, Serock, Legionowo",
+      "phone": 668865052
+    },
+    {
+      "id": 6,
+      "name": "Wójcik Dorota",
+      "cities": "Bielsko-Biała, Cieszyn, Czechowice-Dziedzice, Jastrzębie Zdrój, Kęty, Krzeszowice, Łaziska Górne, Pszczyna, Rybnik, Skoczów, Sucha Beskidzka, Szczyrk, Tychy, Ustroń, Wadowice, Wisła, Wodzisław Śląski, Żywiec.",
+      "phone": 668865071
+    },
+    {
+      "id": 7,
+      "name": "Głąb Paweł",
+      "cities": "Lublin, Chełm, Puławy, Zamość, Tomaszów, Włodawa, Biała Podlaska, Parczew, Ryki, Jastków, Radom, Hrubieszów, Krasnystaw, Lubartów, Łęczna, Świdnik, Kraśnik, Zamość, Radzyń Podlaski, Międzyrzec Podlaski.",
+      "phone": 668865056
+    },
+    {
+      "id": 8,
+      "name": "Godlewska Anna",
+      "cities": "Banie Mazurskie, Biskupiec, Dźwierzuty, Giżycko, Kętrzyn, Mikołajki, Mrągowo, Olsztyn, Ostrołęka, Szczytno, Węgorzewo, Wielbark, Bartoszyce, Morąg, Dobre Miasto, Lidzbark Warmiński, Przasnysz, Gołdap, Orneta.",
+      "phone": 668865057
+    },
+    {
+      "id": 9,
+      "name": "Grącki Robert",
+      "cities": "Tuchola, Świecie, Grudziądz, Sępólno Krajeńskie, Nakło nad Notecią, Bydgoszcz, Toruń, Golub-Dobrzyń, Chełmno, Wąbrzeźno, Brodnica, Rypin, Lipno, Aleksandrów Kujawski, Inowrocław, Żnin, Mogilno, Radziejów, Włocławek, Ciechocinek, Kowal, Sierpc, Kutno.",
+      "phone": 668865064
+    },
+    {
+      "id": 10,
+      "name": "Grzelak Joanna",
+      "cities": "Kalisz, Konin, Kutno, Koło, Wieluń, Kępno, Łódź i okolice, wschodnia część województwa Wielkopolskiego, Skierniewice, Łowicz, Ostrów Wielkopolski, Końskie, Skarżysko-Kamienna.",
+      "phone": 668865065
+    },
+    {
+      "id": 11,
+      "name": "Jasiak Piotr",
+      "cities": "Gdynia, Stargard Gdański, Pruszcz Gdański, Tczew, Elbląg, Malbork, Kwidzyń, Szczecinek, Pasłęk, Chojnice, Braniewo.",
+      "phone": 668865066
+    },
+    {
+      "id": 12,
+      "name": "Jesionka Marcin",
+      "cities": "Wrocław Południe, Bystrzyca, Dzierżoniów, Głuchołazy, Kłodzko, Kobierzyce, Namysłów, Nowa Ruda, Nysa, Oława, Prudnik, Strzegom, Szczawnica Zdrój, Świdnica, Wałbrzych, Opole, Brzeg.",
+      "phone": 668865067
+    },
+    {
+      "id": 13,
+      "name": "Sankton Joanna",
+      "cities": "Wrocław Północ, Legnica, Rawicz, Leśna, Lubań, Płock, Gostynin, Wyszogród, Jelenia Góra, Karpacz, Kamienna Góra, Bolesławiec, Bogatynia, Zgorzelec, Jawor, Środa Śląska, Trzebnica, Żmigród, Rawicz, Milicz, Krotoszyn, Oleśnica,  Oława, Brzeg Dolny.",
+      "phone": 668863399
+    },
+    {
+      "id": 14,
+      "name": "Kuczkowicz Józef",
+      "cities": "Kraków, Nowy Targ, Zakopane, Nowy Sącz, Sucha Beskidzka, Wieliczka, Dobczyce, Krynica Zdrój, Limanowa, Kalwaria Zebrzydowska, Wadowice, Myślenice.",
+      "phone": 668865068
+    },
+    {
+      "id": 15,
+      "name": "Martynowski Dawid",
+      "cities": "woj. wielkopolskie, lubuskie, zachodnio-pomorskie, pomorskie, kujawsko-pomorskie.",
+      "phone": 668865069
+    },
+    {
+      "id": 16,
+      "name": "Perz Krzysztof",
+      "cities": "woj. wielkopolskie, lubuskie, zachodnio-pomorskie, pomorskie, kujawsko-pomorskie.",
+      "phone": 668865069
+    },
+    {
+      "id": 17,
+      "name": "Połonowicz Michał",
+      "cities": "Białystok, Łomża, Ełk, Suwałki, Augustów, Olecko, Łuków, Siedlce, Stoczek Łukowski, Węgrów, Sokołów Podlaski, Sokółka, Siemiatycze, Bielsk Podlaski, Hajnówka, Zambrów, Grajewo, Kolno.",
+      "phone": 668865055
+    },
+    {
+      "id": 18,
+      "name": "Lorek Tomasz",
+      "cities": "woj. mazowieckie, warmińsko-mazurskie, podlaskie, łódzkie, lubelskie.",
+      "phone": 668865053
+    },
+    {
+      "id": 19,
+      "name": "Reszka Adam",
+      "cities": "woj. mazowieckie, warmińsko-mazurskie, podlaskie, łódzkie, lubelskie.",
+      "phone": 668865053
+    },
+    {
+      "id": 20,
+      "name": "Kowalczyk Rafał",
+      "cities": "woj. dolnośląskie, opolskie, śląskie, świętokrzyskie, małopolskie, podkarpackie.",
+      "phone": 668865061
+    },
+    {
+      "id": 21,
+      "name": "Wierzchowska Iwona",
+      "cities": "Częstochowa, Radomsko, Myszków, Zawiercie, Bytom, Dąbrowa Górnicza, Piekary Śląskie, Tarnowskie Góry, Będzin, Siemianowice Śląskie, Lubliniec, Łaziska, Mikołów, Knurów, Koziegłowy, Niemodlin, Radzionków.",
+      "phone": 668865072
+    },
+    {
+      "id": 22,
+      "name": "Wojtkiewicz Piotr",
+      "cities": "Gdańsk, Sopot, Słupsk, Wejherowo, Kościerzyna, Rumia, Kartuzy, Łeba, Bytów, Rowy, Hel, Puck.",
+      "phone": 668865073
+    },
+    {
+      "id": 23,
+      "name": "Kaczyński Arkadiusz",
+      "cities": "Ostróda, Olsztyn, Iława, Olsztynek, Nidzica, Mława, Żuromin, Działdowo, Nowe Miasto Lubawskie, Ciechanów, Chorzele, Glinojeck, Pisz, Ruciane-Nida, Biała Piska.",
+      "phone": 668865058
+    },
+    {
+      "id": 24,
+      "name": "Kłok Angelina",
+      "cities": "Rzeszów, Tarnów, Bochnia, Brzesko, Krosno, Jasło, Przemyśl, Jarosław, Tarnobrzeg, Stalowa Wola, Mielec, Dębica, Kielce, Busko Zdrój, Sandomierz, Ostrowiec Świętokrzyski, Starachowice.",
+      "phone": 668865106
+    },
+    {
+      "id": 25,
+      "name": "Dobke-Taurogińska Maja",
+      "cities": "Szczecinek, Rosnowo, Biały Bór, Nowogard, Dźwirzyn, Szczecin, Police, Świnoujście, Resko, Łobez, Trzebież, Międzyzdroje, Goleniów, Pyrzyce, Płoty, Gryfice, Gryfino, Koszalin, Kołobrzeg, Stargard Szczeciński, Białogard Szczeciński, Darłowo, Połczyn Zdrój, Mielno.",
+      "phone": 668865059
+    },
+    {
+      "id": 26,
+      "name": "Radziwoński Paweł",
+      "cities": "Warszawa, Warka, Białobrzegi, Garwolin, Sulejówek, Józefów, Otwock, Kozienice, Grójec, Ryki, Dęblin, Mińsk Mazowiecki.",
+      "phone": 668863400
+    },
+    {
+      "id": 27,
+      "name": "Kowalczyk Rafał",
+      "cities": "Woj. dolnośląskie, opolskie, śląskie, świętokrzyskie, małopolskie, podkarpackie.",
+      "phone": 668865061
+    }
+  ]
+}
